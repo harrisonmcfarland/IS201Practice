@@ -21,3 +21,47 @@
   li a:hover {
     background-color: #111;
   }
+
+  .background{
+    background-color: lightpink;
+  }
+
+  .tableau{
+   width: 500px;
+  }
+
+  .captions{
+    color: darkslategrey;
+    text-align: center;
+    font-size: larger;
+  }
+
+  .title{
+    text-align: center;
+    color: darkviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .back2top{
+    display: block;
+    color: white;
+    background-color: blueviolet;
+    padding: 5px;
+    text-align: center;
+  }
+
+  a:visited{
+    color: antiquewhite;
+  }
+
+  .lion{
+    display: block;
+    color: black;
+    background-color: darkorange;
+    padding: 5px;
+    text-align: center;
+  }
+
+  .footer{
+    text-align: center;
+  }
